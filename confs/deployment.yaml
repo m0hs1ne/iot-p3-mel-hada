@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: p3-app
+  name: wil-playground
   labels:
     app: p3-app
 spec:
